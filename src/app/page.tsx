@@ -6,7 +6,7 @@ export default function Home() {
     <div className="parentContainer">
       <div className="childContainer bounce-bottom">
         <div className="imgecontainer">
-        <Image src="/html.jfif" alt="html" width={250} height={200} className="p-1 ml-1 rounded-2xl"/> 
+        <Image src="/html.jpg" alt="html" width={250} height={200} className="p-1 ml-1 rounded-2xl"/> 
         <h1 className="title">HTML <br/> (Hyper Text Markup Language)</h1>
         <p className="description">HTML is the standard markup language for Web pages. . . .</p>
         <Link href="/html"><button className="readMore">Read More . . .</button></Link>  
