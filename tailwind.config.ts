@@ -9,14 +9,14 @@ const config: Config = {
   theme: {
     extend: {
       backgroundImage: {
-        html: "url('/html.jfif')",
-        css: "url('/css.jfif')",
-        javascript: "url('/javascript 1.jfif')",
+        html: "url('/html.png')",
+        css: "url('/css.png')",
+        javascript: "url('/javascript 1.png')",
         typescript: "url('/typescript.png')",
         python: "url('/python 1.png')",
-        C: "url('/c.jfif')",
-        Cplus: "url('/c++.jfif')",
-        Csharp: "url('/c1.jfif')",
+        C: "url('/c.png')",
+        Cplus: "url('/c++.png')",
+        Csharp: "url('/c1.png')",
       },
       fontFamily: {
         "Londrina": ["Londrina Sketch", "sans-serif"],
