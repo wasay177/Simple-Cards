@@ -6,7 +6,7 @@ export default function Home() {
     <div className="parentContainer">
       <div className="childContainer bounce-bottom">
         <div className="imgecontainer">
-        <Image src="/html.jpg" alt="html" width={250} height={200} className="p-1 ml-1 rounded-2xl"/> 
+        <Image src="/html.png" alt="html" width={250} height={200} className="p-1 ml-1 rounded-2xl"/> 
         <h1 className="title">HTML <br/> (Hyper Text Markup Language)</h1>
         <p className="description">HTML is the standard markup language for Web pages. . . .</p>
         <Link href="/html"><button className="readMore">Read More . . .</button></Link>  
@@ -14,7 +14,7 @@ export default function Home() {
       </div>
       <div className="childContainer bounce-bottom">
         <div className="imgecontainer">
-        <Image src="/css.jfif" alt="css" width={200} height={200} className="p-1 ml-7 rounded-2xl"/>  
+        <Image src="/css.png" alt="css" width={200} height={200} className="p-1 ml-7 rounded-2xl"/>  
         <h1 className="title">CSS <br/> (Cascading Style Sheet)</h1>
         <p className="description">CSS is the language we use to style an HTML document. . . .</p>
         <Link href="/css"><button className="readMore">Read More . . .</button></Link>  
@@ -22,7 +22,7 @@ export default function Home() {
       </div>
       <div className="childContainer bounce-bottom">
         <div className="imgecontainer">
-        <Image src="/javascript 1.jfif" alt="javascript" width={200} height={200} className="p-1 ml-8 rounded-2xl"/>
+        <Image src="/javascript 1.png" alt="javascript" width={200} height={200} className="p-1 ml-8 rounded-2xl"/>
         <h1 className="title">Javascript</h1>
         <p className="description">JavaScript is the world's most popular programming language. . . .</p>
         <Link href="/javascript"><button className="readMore">Read More . . .</button></Link>  
@@ -47,7 +47,7 @@ export default function Home() {
       <div className="childContainer bounce-bottom">
         <div className="imgecontainer">
         <div className="flex">
-        <Image src="/c.jfif" alt="c" width={200} height={200} className="p-1 ml-8 rounded-2xl"/>
+        <Image src="/c.png" alt="c" width={200} height={200} className="p-1 ml-8 rounded-2xl"/>
         </div>
         <h1 className="title">C</h1>
         <p className="description">C is a general-purpose programming language . . .</p>
@@ -57,7 +57,7 @@ export default function Home() {
       <div className="childContainer bounce-bottom">
         <div className="imgecontainer">
         <div className="flex">
-        <Image src="/c++.jfif" alt="c++" width={200} height={200} className="p-1 ml-7 rounded-2xl"/>
+        <Image src="/c++.png" alt="c++" width={200} height={200} className="p-1 ml-7 rounded-2xl"/>
         </div>
         <h1 className="title">C++</h1>
         <p className="description">C++ is a popular programming language. . . .</p>
@@ -67,7 +67,7 @@ export default function Home() {
       <div className="childContainer bounce-bottom">
         <div className="imgecontainer">
         <div className="flex">
-        <Image src="/c1.jfif" alt="c1" width={200} height={200} className="p-1 ml-8 rounded-2xl"/>
+        <Image src="/c1.png" alt="c1" width={200} height={200} className="p-1 ml-8 rounded-2xl"/>
         </div>
         <h1 className="title">C#</h1>
         <p className="description">C# (C-Sharp) is a programming language . . .</p>
